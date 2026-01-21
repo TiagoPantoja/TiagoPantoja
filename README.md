@@ -19,13 +19,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dorddis/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview" />
-  <img src="https://raw.githubusercontent.com/dorddis/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/TiagoPantoja/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview" />
+  <img src="https://raw.githubusercontent.com/TiagoPantoja/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dorddis/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Overview" />
-  <img src="https://raw.githubusercontent.com/dorddis/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/TiagoPantoja/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Overview" />
+  <img src="https://raw.githubusercontent.com/TiagoPantoja/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages" />
 </p>
 
 ---
