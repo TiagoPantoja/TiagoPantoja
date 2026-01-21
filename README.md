@@ -87,6 +87,8 @@
 ![B3](https://img.shields.io/badge/B3-1D1D1B?style=flat&logo=b3&logoColor=white_)
 ![Visa](https://img.shields.io/badge/Visa-1A1F71?style=flat&logo=visa&logoColor=white_)
 ![Mastercard](https://img.shields.io/badge/Mastercard-EB001B?style=flat&logo=mastercard&logoColor=white)<br>
+![Banco do Brasil](https://img.shields.io/badge/Banco_do_Brasil-FCD116?style=flat&logoColor=0033A0)
+![Itaú](https://img.shields.io/badge/Itaú-EC7000?style=flat&logo=itau&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
