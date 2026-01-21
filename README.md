@@ -3,7 +3,7 @@
 ### Senior Software Engineer | 8+ years of experience | Back-End & AI Developer
 
 <p align="center">
-    <a href="https://SEU-NOME.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SEU--NOME.vercel.app-blue?style=flat" alt="Portfolio"></a>
+    <a href="https://tiago-pantoja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-SEU--NOME.vercel.app-blue?style=flat" alt="Portfolio"></a>
     <a href="https://linkedin.com/in/tiago-pantoja"><img src="https://img.shields.io/badge/LinkedIn-tiago--pantoja-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
     <a href="mailto:tiagopantoja1998@gmail.com"><img src="https://img.shields.io/badge/Email-tiagopantoja1998%40gmail.com-EA4335?style=flat&logo=gmail" alt="E-mail"></a>
 </p>
@@ -81,11 +81,15 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 **Integrations & APIs**<br>
+![Pix](https://img.shields.io/badge/PIX-32BCAD?style=flat&logo=pix&logoColor=white)
+![Bacen](https://img.shields.io/badge/Bacen-172B4D?style=flat&logo=bank&logoColor=white)
+![Open Finance](https://img.shields.io/badge/Open_Finance-172B4D?style=flat&logo=bank&logoColor=white)
+![B3](https://img.shields.io/badge/B3-1D1D1B?style=flat&logo=b3&logoColor=white_)
+![Visa](https://img.shields.io/badge/Visa-1A1F71?style=flat&logo=visa&logoColor=white_)
+![Mastercard](https://img.shields.io/badge/Mastercard-EB001B?style=flat&logo=mastercard&logoColor=white)<br>
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
-![LinkedIn API](https://img.shields.io/badge/LinkedIn_API-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Gmail API](https://img.shields.io/badge/Gmail_API-EA4335?style=flat&logo=gmail&logoColor=white)
 
 <br>
 
